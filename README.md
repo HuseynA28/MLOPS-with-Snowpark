@@ -1,4 +1,4 @@
-# Snowflake MLOPS Project
+# Snowflake MLOPS Project.
 
 ## Introduction
 
